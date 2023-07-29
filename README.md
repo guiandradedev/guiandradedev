@@ -3,12 +3,7 @@
 <div align="center">
     <h3>About Me</h3>
     <p>I've been a technology enthusiast since I was a kid and that's why I became a software developer.    So far, I'm dedicating myself to the study of full-stack development, with an emphasis on back-end software using JavaScript technologies such as NodeJS and Typescript.</p>
-    <h4>Academic Education</h4>
-    <ul style='list-style-position: inside'>
-        <li>Systems Development Technician at Etec Bento Quirino [2020-2022]</li>
-        <li>Computer Engineering at PUC Campinas [2023-2027]</li>
-    </ul>
-    <h4>Technologies</h4>
+        <h4>Technologies</h4>
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
@@ -18,6 +13,11 @@
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
         <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+    <h4>Academic Education</h4>
+    <ul style='list-style-position: inside'>
+        <li>Systems Development Technician at Etec Bento Quirino [2020-2022]</li>
+        <li>Computer Engineering at PUC Campinas [2023-2027]</li>
+    </ul>
 
 </div>
 

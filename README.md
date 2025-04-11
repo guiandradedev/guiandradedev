@@ -53,7 +53,7 @@ I’m a Computer Engineering student at PUC-Campinas and a Systems Development T
 - Cloud Computing & IoT and IA in healthcare | **AIoTLab Brasil – PUC Campinas**
 - ReactJS Formation | **Rocketseat**
 - Web Infrastructure | **DankiCode**
-- Web Infrastructure | **Cod3r**
+- Complete Web Development | **Cod3r**
 
 ---
 
@@ -63,7 +63,7 @@ I’m a Computer Engineering student at PUC-Campinas and a Systems Development T
   <a href="mailto:guiandradeemail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/guiandradedev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/guiandradedev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.molian.com.br/portfolio"><img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://www.molian.com.br/portfolio" /></a>
+  <a href="molian.com.br/portfolio"><img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://www.molian.com.br/portfolio" /></a>
 </div>
 
 ---
